@@ -4,7 +4,7 @@
 	<description>This project is an open source base256 library under the MIT license</description>
 	<groupId>com.github.bharatmicrosystems</groupId>
 	<artifactId>base256</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<packaging>jar</packaging>
 	<name>base256</name>
 	<url>https://github.com/bharatmicrosystems/base256</url>
