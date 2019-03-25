@@ -6,7 +6,7 @@ Usage:
 
 Add this as a maven or gradle dependency
 
-https://search.maven.org/artifact/com.github.bharatmicrosystems/base256/0.0.1/jar
+https://search.maven.org/artifact/com.github.bharatmicrosystems/base256/0.0.2/jar
 
 
 Sample Test is included in the code:
